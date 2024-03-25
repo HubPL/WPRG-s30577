@@ -1,0 +1,16 @@
+div {
+    background-color: black;
+}
+h1 {
+    color:grey;
+}
+.orange {
+    background-color: red;
+    width: 20em;
+    height: 20em;
+}
+.blue{
+    background-color: blue;
+    width: 20em;
+    height: 20em;
+}
